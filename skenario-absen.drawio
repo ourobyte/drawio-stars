@@ -1,0 +1,166 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Halaman-1" id="8xeedzcfeoh7j7ERkhKP">
+    <mxGraphModel dx="2526" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-7" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="460" x="10" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-4" parent="8sZrL5v9ihG1iYNmOiwl-7" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="460" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-5" parent="8sZrL5v9ihG1iYNmOiwl-7" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Algoritm Time `GH` Shift 2&lt;/h1&gt;&lt;p&gt;Morning Shift : 09.00 - 09.10&lt;/p&gt;&lt;p&gt;Late Time : 10.11 - 11.29&lt;/p&gt;&lt;p&gt;Additional Time : input self&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="440" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-8" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="460" x="10" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-9" parent="8sZrL5v9ihG1iYNmOiwl-8" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="460" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-10" parent="8sZrL5v9ihG1iYNmOiwl-8" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Algoritm Time `GC or HTC` Shift 2&lt;/h1&gt;&lt;p&gt;Morning Shift : 10.00 - 10.10&lt;/p&gt;&lt;p&gt;Late Time : 10.11 - 11.29&lt;/p&gt;&lt;p&gt;Additional Time : input self&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="440" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-11" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="460" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-1" parent="8sZrL5v9ihG1iYNmOiwl-11" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="460" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-3" parent="8sZrL5v9ihG1iYNmOiwl-11" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Algoritm Time `GC or HTC` Shift 1&lt;/h1&gt;&lt;p&gt;Morning Shift : 08.00 - 08.10&lt;/p&gt;&lt;p&gt;Late Time : 08.11 - 08.59&lt;/p&gt;&lt;p&gt;Additional Time : input self&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="440" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-12" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="460" x="10" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-13" parent="8sZrL5v9ihG1iYNmOiwl-12" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="460" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-14" parent="8sZrL5v9ihG1iYNmOiwl-12" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Algoritm Time `GH` Shift 1&lt;/h1&gt;&lt;p&gt;Morning Shift : 08.00 - 08.10&lt;/p&gt;&lt;p&gt;Late Time : 08.11 - 08.59&lt;/p&gt;&lt;p&gt;Additional Time : input self&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="440" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-15" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="460" x="770" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-16" parent="8sZrL5v9ihG1iYNmOiwl-15" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="460" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-17" parent="8sZrL5v9ihG1iYNmOiwl-15" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Algoritm Time `GC, HTC, GH` Break 2&lt;/h1&gt;&lt;p&gt;Morning Shift : 12.30 - 13.30&lt;/p&gt;&lt;p&gt;Late Time : 10.11 - 11.29&lt;/p&gt;&lt;p&gt;Additional Time : input self&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="440" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-18" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="460" x="770" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-19" parent="8sZrL5v9ihG1iYNmOiwl-18" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="460" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-20" parent="8sZrL5v9ihG1iYNmOiwl-18" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Algoritm Time `GC, HTC, GH` Break 1&lt;/h1&gt;&lt;p&gt;First Shift : 11.30 - 12.30&lt;/p&gt;&lt;p&gt;Late Time : 1 hours 2 minute&lt;/p&gt;&lt;p&gt;Additional Time : input self&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="440" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-21" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="160" width="110" x="660" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-22" edge="1" parent="1" style="fontSize=12;html=1;endArrow=oval;startArrow=oval;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;edgeStyle=entityRelationEdgeStyle;elbow=vertical;startFill=1;endFill=1;" target="8sZrL5v9ihG1iYNmOiwl-21" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="470" y="550" as="sourcePoint" />
+            <mxPoint x="570" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-23" edge="1" parent="1" style="fontSize=12;html=1;endArrow=oval;startArrow=oval;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;edgeStyle=entityRelationEdgeStyle;elbow=vertical;startFill=1;endFill=1;" target="8sZrL5v9ihG1iYNmOiwl-21" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="470" y="90" as="sourcePoint" />
+            <mxPoint x="660" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-24" edge="1" parent="1" style="fontSize=12;html=1;endArrow=oval;startArrow=oval;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;startFill=1;endFill=1;edgeStyle=entityRelationEdgeStyle;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="470" y="240" as="sourcePoint" />
+            <mxPoint x="660" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-25" edge="1" parent="1" source="8sZrL5v9ihG1iYNmOiwl-13" style="fontSize=12;html=1;endArrow=oval;startArrow=oval;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;edgeStyle=entityRelationEdgeStyle;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startFill=1;endFill=1;" target="8sZrL5v9ihG1iYNmOiwl-21" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="480" y="400" as="sourcePoint" />
+            <mxPoint x="670" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-28" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="214" x="1340" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-29" connectable="0" parent="8sZrL5v9ihG1iYNmOiwl-28" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="214" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-26" parent="8sZrL5v9ihG1iYNmOiwl-29" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="214" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-27" parent="8sZrL5v9ihG1iYNmOiwl-29" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;EndPoint&lt;/h1&gt;&lt;p&gt;First switch : 11.30&lt;/p&gt;&lt;p&gt;Last Switch : 14.59&lt;/p&gt;" vertex="1">
+          <mxGeometry height="105" width="180" x="17" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-30" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="160" width="110" x="1230" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-33" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="500" x="890" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-34" parent="8sZrL5v9ihG1iYNmOiwl-33" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="500" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-35" parent="8sZrL5v9ihG1iYNmOiwl-33" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Algoritm Time `GC, HTC, GH` Afternoon&lt;/h1&gt;&lt;p&gt;Afternoon Shift : 15.00(Ashar) - 15.30(ba&#39;da)&lt;/p&gt;&lt;p&gt;Late Time : 35 minutes&lt;/p&gt;&lt;p&gt;Additional Time : input self&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="469.13" x="20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-36" edge="1" parent="1" source="8sZrL5v9ihG1iYNmOiwl-26" style="endArrow=none;html=1;rounded=0;exitX=0.449;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="8sZrL5v9ihG1iYNmOiwl-34" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1436.14" y="880" />
+            </Array>
+            <mxPoint x="1390" y="450" as="sourcePoint" />
+            <mxPoint x="1436.09" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-37" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="214" x="608" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-38" connectable="0" parent="8sZrL5v9ihG1iYNmOiwl-37" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="214" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-39" parent="8sZrL5v9ihG1iYNmOiwl-38" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="214" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-40" parent="8sZrL5v9ihG1iYNmOiwl-38" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;EndPoint&lt;/h1&gt;&lt;p&gt;First switch : 15.00&lt;/p&gt;&lt;p&gt;Last Switch : 15.32&lt;/p&gt;" vertex="1">
+          <mxGeometry height="105" width="180" x="17" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-43" parent="1" style="line;strokeWidth=2;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="10" width="68" x="822" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-44" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="500" x="10" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-45" parent="8sZrL5v9ihG1iYNmOiwl-44" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="500" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-46" parent="8sZrL5v9ihG1iYNmOiwl-44" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Algoritm Time `GC, HTC, GH` Home&lt;/h1&gt;&lt;p&gt;Home : 19.00 - 22.00 (depending on the shift)&lt;/p&gt;&lt;p&gt;Additional Time : input self&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="469.13" x="20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-47" parent="1" style="line;strokeWidth=2;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="10" width="98" x="510" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="216" width="605" x="680" y="514" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=38;" value="&lt;div&gt;After 22.59 it&#39;s time to swap&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="540" x="712.5" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="Recap All data for today" vertex="1">
+          <mxGeometry height="30" width="300" x="832.5" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60a917, #ffffff);strokeColor=#2D7600;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="1040" width="750" x="1670" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="8sZrL5v9ihG1iYNmOiwl-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60a917, #ffffff);strokeColor=#2D7600;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="1040" width="750" x="430" y="1120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
