@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Halaman-1" id="8xeedzcfeoh7j7ERkhKP">
-    <mxGraphModel dx="5893" dy="5516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2947" dy="2173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,27 +153,6 @@
         </mxCell>
         <mxCell id="8sZrL5v9ihG1iYNmOiwl-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="Recap All data for today" vertex="1">
           <mxGeometry height="30" width="300" x="832.5" y="620" as="geometry" />
-        </mxCell>
-        <mxCell id="VfPvFZ5zTYiDqVsyI-5s-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="630" width="605" x="80" y="1080" as="geometry" />
-        </mxCell>
-        <mxCell id="VfPvFZ5zTYiDqVsyI-5s-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="630" width="605" x="930" y="1080" as="geometry" />
-        </mxCell>
-        <mxCell id="VfPvFZ5zTYiDqVsyI-5s-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="630" width="605" x="940" y="1090" as="geometry" />
-        </mxCell>
-        <mxCell id="VfPvFZ5zTYiDqVsyI-5s-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="630" width="605" x="970" y="-850" as="geometry" />
-        </mxCell>
-        <mxCell id="VfPvFZ5zTYiDqVsyI-5s-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="630" width="605" x="75" y="-860" as="geometry" />
-        </mxCell>
-        <mxCell id="VfPvFZ5zTYiDqVsyI-5s-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="630" width="605" x="1930" y="-880" as="geometry" />
-        </mxCell>
-        <mxCell id="VfPvFZ5zTYiDqVsyI-5s-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="630" width="605" x="2010" y="1110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
