@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Halaman-1" id="WJXFKSn4uBk0PXlhKczr">
-    <mxGraphModel>
+    <mxGraphModel dx="1473" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-FQDkIihu0-alI2_ZNkg-2" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="path" vertex="1">
+          <mxGeometry height="270" width="180" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-FQDkIihu0-alI2_ZNkg-4" parent="-FQDkIihu0-alI2_ZNkg-2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="AI_CONTEXT/&lt;br&gt;│&lt;br&gt;├── PROJECT.md&lt;br&gt;├── RULES.md&lt;br&gt;├── ARCHITECTURE.md&lt;br&gt;├── STACK.md&lt;br&gt;├── STRUCTURE.md&lt;br&gt;├── DATABASE.md&lt;br&gt;├── MODULES.md&lt;br&gt;├── DECISIONS.md&lt;br&gt;├── TODO.md&lt;br&gt;└── CHANGELOG.md" vertex="1">
+          <mxGeometry height="220" width="180" y="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
